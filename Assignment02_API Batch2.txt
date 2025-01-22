@@ -1,0 +1,20 @@
+1> Take values of length and breadth and check if it is a rectangle or a square
+
+2> Find largest between 4 numbers 
+
+3>Check if a year is leap or not 
+
+5> Check the grading System 
+
+number is below 20 print fail
+
+if number is between 20 and 40  and number in maths is <20 print D
+if number is between 40 and 60  and number in maths is >30 print C
+if number is between 60 and 80  and number in maths is >60 print B
+if number is between 80 and 100  and number in maths is >80 print A
+
+6>WAP in Java to find largest bw five numbers in Java 
+7>WAP in Java to find the sum of all even number from 1 to 20
+8>WAP in Java to find the Amount and SI for P=50000, t=6 years, r=4%
+9>WAP in Java to find GCD of two numbers
+10>WAP in Java to find the sum of all odd number from 12 to 20
