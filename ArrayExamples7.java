@@ -11,6 +11,7 @@ public class ArrayExamples7 {
 		System.out.println(x);
 		
 	String str1=	Arrays.toString(a);
+		System.out.println();
 	
 	System.out.println(str1);
 	
